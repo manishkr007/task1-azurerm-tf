@@ -40,10 +40,10 @@
 
 ### Common Issues and Resolutions :-
 
-1. Error: Provider configuration not found
-   Reason: Terraform initialization not performed
-   Resolution: Run `terraform init`
+1. Error: Provider configuration not found  
+   Reason: Terraform initialization not performed  
+   Resolution: Run `terraform init`  
    
-2. Error: Resource name already exists
-   Reason: Azure resources must have globally unique names
-   Resolution: Modify resource names in main.tf to ensure uniqueness
+2. Error: Resource name already exists  
+   Reason: Azure resources must have globally unique names  
+   Resolution: Modify resource names in main.tf to ensure uniqueness  
